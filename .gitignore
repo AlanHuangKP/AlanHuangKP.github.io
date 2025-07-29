@@ -28,11 +28,3 @@ yarn.lock
 src/content/posts/guide/markdown-extended.md
 src/content/posts/guide/cover.jpeg
 src/content/posts/guide/index.md
-src/content/posts/guide/BaiduNetdisk.md
-src/content/posts/guide/linux&windows.md
-src/content/posts/guide/matlab-matconvnet.md
-src/content/posts/guide/MDPI.md
-src/content/posts/guide/overleaf.md
-src/content/posts/guide/Ubuntu-cuda.md
-src/content/posts/guide/wsl_cuda.md
-src/content/posts/guide/wsl_ssh.md
